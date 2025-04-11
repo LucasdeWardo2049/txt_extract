@@ -1,0 +1,11 @@
+Tipo Documento: RG
+Nome: João Silva
+CPF: 123.456.789-00
+RG: 12.345.678-9
+Data Emissão: 15/03/2020
+Órgão Emissor: SSP-SP
+
+--- Conteúdo Extraído via OCR ---
+Documento de Identidade emitido 
+Número do registro: 12345678. 
+Validade: Indeterminada.

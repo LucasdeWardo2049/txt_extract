@@ -1,0 +1,2 @@
+cpf,nome,tipo_documento,caminho_txt,caminho_pdf,valido,pontuacao
+12345678900,João Silva CPF,RG,\\data\\raw_txt\\example_CPF.txt,N/A,True,92.5
